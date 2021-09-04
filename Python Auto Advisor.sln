@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Auto Advisor", "Python Auto Advisor\Python Auto Advisor.pyproj", "{7BC5E9B0-813C-49E2-9F9F-E79634D6C955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC5E9B0-813C-49E2-9F9F-E79634D6C955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC5E9B0-813C-49E2-9F9F-E79634D6C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FEC6B60-7D03-40D1-8755-33ACCF789E8E}
+	EndGlobalSection
+EndGlobal
